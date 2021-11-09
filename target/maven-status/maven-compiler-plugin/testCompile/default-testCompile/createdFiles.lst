@@ -1,0 +1,14 @@
+com/sdetFast/pages/UsersPage.class
+com/sdetFast/pages/LoginPage.class
+com/sdetFast/pages/BooksPage.class
+com/sdetFast/step_definitions/BookAdd.class
+com/sdetFast/step_definitions/Hooks.class
+com/sdetFast/step_definitions/EtsyStepDef.class
+com/sdetFast/pages/EtsyPage.class
+com/sdetFast/runner/FailedTestRunner.class
+com/sdetFast/pages/DashboardPage.class
+com/sdetFast/util/ConfigurationReader.class
+com/sdetFast/step_definitions/LoginStepDefinition.class
+com/sdetFast/util/Driver.class
+com/sdetFast/runner/CukesRunner.class
+com/sdetFast/step_definitions/UserAdd.class
